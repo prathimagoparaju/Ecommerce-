@@ -1,5 +1,5 @@
-                                                      ELECTRICBUY - An ecommerce website:
-                                                       Where electronic gadgets are sold
+                                                  ELECTRICBUY - An ecommerce website:
+                                                  Where electronic gadgets are sold
 
 
 
