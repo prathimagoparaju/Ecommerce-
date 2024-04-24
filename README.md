@@ -14,3 +14,9 @@ With two-factor authentication, you'll get an extra code sent to your phone to m
 And when it comes to payments, you can trust that your information is locked down tight, thanks to our partnership with Paypal. So go ahead and shop with confidence—we've got your back!
 
 ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/f42f4099-2981-42c0-ba34-54f77db34717)
+
+
+
+
+![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/f970701d-739f-4e93-b116-78dd1187e4b0)
+
