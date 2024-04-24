@@ -27,3 +27,9 @@ And when it comes to payments, you can trust that your information is locked dow
 
                                                     "LIST OF PRODUCTS" 
   ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/606d9633-34de-4262-8284-cb6917af2890)
+
+
+
+                                                    "CHECKOUT PAGE"
+    ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/a3086b67-142b-43a5-a7bd-c1cf0a1c34b0)
+                                                
