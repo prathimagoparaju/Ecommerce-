@@ -31,5 +31,6 @@ And when it comes to payments, you can trust that your information is locked dow
 
 
                                                     "CHECKOUT PAGE"
-    ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/a3086b67-142b-43a5-a7bd-c1cf0a1c34b0)
+   ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/5b7a35d1-8b76-4149-aeec-b1ba76c2c17a)
+
                                                 
