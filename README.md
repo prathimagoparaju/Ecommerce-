@@ -22,3 +22,8 @@ And when it comes to payments, you can trust that your information is locked dow
                                                    "TOP FEATURED PRODUCTS"
 ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/f970701d-739f-4e93-b116-78dd1187e4b0)
 
+
+
+
+                                                    "LIST OF PRODUCTS" 
+  ![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/606d9633-34de-4262-8284-cb6917af2890)
