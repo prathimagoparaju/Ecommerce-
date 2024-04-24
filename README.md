@@ -12,3 +12,5 @@ We know how important it is to keep your personal info and payment details safe 
 That's why we've put some serious security measures in place, like adding extra layers of protection with things like two-factor authentication (that's when you need more than just a password to log in) and teaming up with trusted payment partners like Paypal.
 With two-factor authentication, you'll get an extra code sent to your phone to make sure it's really you logging in.
 And when it comes to payments, you can trust that your information is locked down tight, thanks to our partnership with Paypal. So go ahead and shop with confidence—we've got your back!
+
+![image](https://github.com/prathimagoparaju/Ecommerce-/assets/167919765/f42f4099-2981-42c0-ba34-54f77db34717)
